@@ -36,3 +36,5 @@ fields:
   default: post
   config:
     required: true
+pages:
+- src/pages/posts/00-resenha-do-artigo-shark-tank.md
