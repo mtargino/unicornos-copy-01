@@ -36,6 +36,3 @@ fields:
   default: post
   config:
     required: true
-pages:
-- src/pages/posts/2019-03-10-conf.md
-- src/pages/posts/2018-01-15-function-of-design .md
