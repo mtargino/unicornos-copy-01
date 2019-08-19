@@ -43,8 +43,6 @@ Esta é uma crítica que venho fazendo ultimamente, o curso com esta ideia gener
 
 ### Deixa que eu pago
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l9EfHSSs2DA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 [Acessar Vídeo ↪](https://youtu.be/l9EfHSSs2DA "Acessar vídeo")
 
 ##### _Comentário sobre o vídeo_
@@ -57,18 +55,18 @@ Depois de muitas propostas de diferentes portes, o CEO pensa e decide voltar par
 
 ##### _Perguntas & Respostas_
 
-* **_O que mais te surpreendeu na apresentação?_**
+* **O que mais te surpreendeu na apresentação?**
 
 > Diferente da maioria dos outros episódios onde todos os "tubarões" rejeitam a proposta e o último oferece uma proposta pior do que a inicial, a qual acaba sendo aceita, nesse episódio todos os tubarões se engajam e fazem suas propostas. A identificação clara de seu público alvo, a preparação pra responder as perguntas, a frieza  pra negar as insinuações de que seu projeto não faz sentido e explicar porque faz, e a segurança em escolher a proposta de investimento, mesmo com a variedade oferecida.
 
-* **_O que mais surpreendeu no produto?_**
+* **O que mais surpreendeu no produto?**
 
 > É que foi uma solução simples mas ainda inexistente no nosso país, então há um público alvo imenso a se explorar, e chamou muito atenção da nossa equipe, por que um dos principais problemas de umas de nossas propostas de projeto é na parte financeira, e ele apresenta conceitos importantes que podem ser potenciais problemas que iremos enfrentar durante a execução de nosso projeto.
 
-* **_Qual aspecto do negócio fez a diferença na apresentação?_**
+* **Qual aspecto do negócio fez a diferença na apresentação?**
 
 > Por ter um funding limitado, explica que atualmente se limita a compras de consumo, mostra que o risco de inadimplência não é do aplicativo mas sim do banco do cartão de crédito, em seguida mostra a sua margem de lucro e a escalabilidade do seu produto, atraindo a atenção dos tubarões.
 
-* **_O que poderia ser melhorado?_**
+* **O que poderia ser melhorado?**
 
 > A identidade visual de seu mascote, uma zebra em referência ao código de barras do boleto, é bem rasa e fraca e pode ser melhorada.
