@@ -1,6 +1,6 @@
 ---
 template: post
-title: "#00 \U0001F4D1 Resenha do Artigo + \U0001F988 Shark Tank"
+title: "#00 \U0001F4D1\U0001F988 Resenha do Artigo + Shark Tank"
 subtitle: Confira as tarefas solicitadas na primeira aula da disciplina de Projeto
   Integrado 2(2019.2).
 date: 2019-08-16T03:00:00Z
