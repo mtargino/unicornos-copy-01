@@ -39,6 +39,8 @@ Esta é uma crítica que venho fazendo ultimamente, o curso com esta ideia gener
 
 ### Deixa que eu pago
 
+[Acessar o vídeo](https://youtu.be/l9EfHSSs2DA "Acessar Vídeo")
+
 ##### _Comentário sobre o vídeo_
 
 O CEO da Deixa que eu pago começa expondo seus serviços, que dão suporte a pessoas em momentos financeiros difíceis, que apenas conseguiriam pagar seus boletos de cobrança (Água, luz, telefone...) parcelando com cartão de crédito. Esse serviço nunca havia sido oferecido antes no Brasil e requer um Funding muito grande, por isso o projeto é levado aos Sharks.
