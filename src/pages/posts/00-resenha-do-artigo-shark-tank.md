@@ -31,6 +31,8 @@ O artigo se inicia citando as dificuldades na condução de projetos de sistemas
 
 ## Shark Tank
 
-### Vídeo editado
+### Título do Vídeo
 
-Texto corrido
+##### → _Comentário sobre o vídeo_
+
+O artigo se inicia citando as dificuldades na condução de projetos de sistemas
