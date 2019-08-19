@@ -11,7 +11,9 @@ excerpt: ''
 ---
 ## Resenha do Artigo
 
-### Resenha do Artigo 
+### Applying Design Thinking in Disciplines of Systems Development
+
+#### Introdução
 
 Texto Corrido
 
