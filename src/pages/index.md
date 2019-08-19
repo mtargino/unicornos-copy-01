@@ -6,7 +6,7 @@ sections:
   title: Equipe Unicornos
   section_id: hero
   component: HeroBlock
-  content: Portal Oficial da Equipe mais chifruda de Projeto 2
+  content: Portal Oficial da Equipe mais chifruda de Projeto 2 em 2019.2
   image: images/5.jpg
   actions: []
 - type: featuresblock
