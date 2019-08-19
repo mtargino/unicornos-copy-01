@@ -19,15 +19,15 @@ O artigo se inicia citando as dificuldades na condução de projetos de sistemas
 
 ##### → _Design Thinking como metodologia_
 
-O artigo se inicia citando as dificuldades na condução de projetos de sistemas
+Comentar sobre a metodologia do design thinking e sua aplicação no contexto do SMD
 
 ##### → _Aplicação e Resultados_
 
-O artigo se inicia citando as dificuldades na condução de projetos de sistemas
+Mostrar como foram aplicados os passos e os resultados obtidos
 
 ##### → _Opinião_
 
-O artigo se inicia citando as dificuldades na condução de projetos de sistemas
+Dar opinião sobre o artigo
 
 ## Shark Tank
 
