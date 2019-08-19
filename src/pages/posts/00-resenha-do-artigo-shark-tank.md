@@ -13,19 +13,19 @@ excerpt: ''
 
 ### Applying Design Thinking in Disciplines of Systems Development
 
-##### _Início do Artigo_
+##### → _Início do Artigo_
 
 O artigo se inicia citando as dificuldades na condução de projetos de sistemas
 
-##### _Design Thinking como metodologia_
+##### → _Design Thinking como metodologia_
 
 O artigo se inicia citando as dificuldades na condução de projetos de sistemas
 
-##### _Aplicação e Resultados_
+##### → _Aplicação e Resultados_
 
 O artigo se inicia citando as dificuldades na condução de projetos de sistemas
 
-##### _Opinião_
+##### → _Opinião_
 
 O artigo se inicia citando as dificuldades na condução de projetos de sistemas
 
