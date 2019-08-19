@@ -13,7 +13,7 @@ excerpt: ''
 
 ### Applying Design Thinking in Disciplines of Systems Development
 
-O artigo se inicia citando as dificuldades na condução de projetos de sistemas envolvendo teoria e prática, considerando os fatores técnicos e humanos. Logo após, demonstra diversas aplicações de metodologia no contexto de Engenharia de Software e Desenvolvimento de Jogos, apresentando resumos de algumas universidades brasileiras e autores acadêmicos. 
+O artigo se inicia citando as dificuldades na condução de projetos de sistemas envolvendo teoria e prática, considerando os fatores técnicos e humanos. Logo após, demonstra diversas aplicações de metodologia no contexto de Engenharia de Software e Desenvolvimento de Jogos, apresentando resumos de algumas universidades brasileiras e autores acadêmicos.
 
 Ao final das descrições é finalmente apresentada uma introdução à relevância e utilidade do _Design Thinking_ e como isto seria uma abordagem coerente para o contexto das disciplinas do curso de Sistemas e Mídias Digitais.
 
