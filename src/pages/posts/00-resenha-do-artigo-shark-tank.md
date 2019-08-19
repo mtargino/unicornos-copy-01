@@ -43,6 +43,8 @@ Esta é uma crítica que venho fazendo ultimamente, o curso com esta ideia gener
 
 ### Deixa que eu pago
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l9EfHSSs2DA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [Acessar Vídeo ↪](https://youtu.be/l9EfHSSs2DA "Acessar vídeo")
 
 ##### _Comentário sobre o vídeo_
