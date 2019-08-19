@@ -15,7 +15,7 @@ excerpt: ''
 
 #### Introdução
 
-Texto Corrido
+O artigo se inicia citando as dificuldades na condução de projetos de sistemas
 
 ## Shark Tank
 
