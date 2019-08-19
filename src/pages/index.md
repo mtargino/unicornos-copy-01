@@ -3,10 +3,10 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Equipe Unicornos
+  title: Equipe Unicode Manicule
   section_id: hero
   component: HeroBlock
-  content: Portal Oficial da Equipe mais chifruda de Projeto 2 em 2019.2
+  content: Portal Oficial da Equipe para a disciplina de Projeto  em 2019.2
   image: images/5.jpg
   actions: []
 - type: featuresblock
