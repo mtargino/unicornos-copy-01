@@ -13,12 +13,26 @@ excerpt: ''
 
 ### Applying Design Thinking in Disciplines of Systems Development
 
-#### Introdução
+##### → _Início do Artigo_
 
-Texto Corrido
+O artigo se inicia citando as dificuldades na condução de projetos de sistemas
+
+##### → _Design Thinking como metodologia_
+
+O artigo se inicia citando as dificuldades na condução de projetos de sistemas
+
+##### → _Aplicação e Resultados_
+
+O artigo se inicia citando as dificuldades na condução de projetos de sistemas
+
+##### → _Opinião_
+
+O artigo se inicia citando as dificuldades na condução de projetos de sistemas
 
 ## Shark Tank
 
-### Vídeo editado
+### Deixa que eu pago
 
-Texto corrido
+##### → _Comentário sobre o vídeo_
+
+O artigo se inicia citando as dificuldades na condução de projetos de sistemas
