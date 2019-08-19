@@ -39,7 +39,7 @@ Esta é uma crítica que venho fazendo ultimamente, o curso com esta ideia gener
 
 ### Deixa que eu pago
 
-[Acessar o vídeo](https://youtu.be/l9EfHSSs2DA "Acessar Vídeo")
+[Acessar Vídeo ↪](https://youtu.be/l9EfHSSs2DA "Acessar vídeo")
 
 ##### _Comentário sobre o vídeo_
 
