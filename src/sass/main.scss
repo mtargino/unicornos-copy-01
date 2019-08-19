@@ -1,16 +1,3 @@
-@font-face {
-  font-family: 'Karmilla';
-  font-style: normal;
-  font-weight: normal;
-  src: local('Karmilla Regular'), url('https://www.cufonfonts.com/cdn/webfont/karmilla/Karmilla-Regular-015.woff?token=n5H-VVkFe9jth2gbqO1jdDVtcSw2tNvq') format('woff');
-}
-@font-face {
-  font-family: 'Karmilla';
-  font-style: normal;
-  font-weight: bold;
-  src: local('Karmilla Bold'), url('https://www.cufonfonts.com/cdn/webfont/karmilla/Karmilla-Bold-014.woff?token=n5H-VVkFe9jth2gbqO1jdDVtcSw2tNvq') format('woff');
-}
-
 // Font.
 $font: (
   primary: ('Karmilla', Helvetica, Arial, sans-serif),
@@ -33,6 +20,7 @@ $palette: (
 
 @import "imports/functions";
 
+@import "stylesheet.min.css";
 @import "fontawesome.min.css";
 @import "brands.min.css";
 
