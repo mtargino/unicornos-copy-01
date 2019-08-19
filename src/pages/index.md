@@ -14,26 +14,14 @@ sections:
   section_id: features
   component: FeaturesBlock
   featureslist:
-  - title: Documentation
-    content: Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-      a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at, tincidunt
-      ut tellus. Vivamus rhoncus mattis varius.
-    actions:
-    - label: Get Started
-      url: docs/index.html
+  - title: ''
+    content: ''
+    actions: []
   - title: Blog
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+    content: Acesse o Blog para acompanhar as atualizações de tarefas da equipe.
     actions:
-    - label: View Posts
+    - label: Ver Posts
       url: blog/index.html
-  - title: Style Guides
-    content: Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-      a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at, tincidunt
-      ut tellus. Vivamus rhoncus mattis varius.
-    actions:
-    - label: Learn More
-      url: "/style-guide.html"
   title: ''
   subtitle: ''
 - type: contentblock
