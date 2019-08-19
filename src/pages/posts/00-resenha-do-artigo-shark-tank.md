@@ -27,7 +27,7 @@ Na penúltima seção são descritos com detalhes os resultados da disciplina e 
 
 Para ilustrar a pesquisa, temos a apresentação de resultados das análises quantitativa e qualitativa, pontuando cada destaque resumidamente. Na última seção é apresentada uma conclusão com o resumo do objetivo e as considerações finais dos autores sobre os resultados obtidos e a necessidade da evolução desta abordagem para o contexto do curso.
 
-##### → _Conclusões pessoais sobre a leitura_
+##### _Conclusões pessoais sobre a leitura_
 
 O artigo apresenta uma solução inicial que os professores encontraram para resolver a dificuldade de controlar a produção durante determinadas disciplinas que existiam no curso.
 
@@ -39,7 +39,7 @@ Esta é uma crítica que venho fazendo ultimamente, o curso com esta ideia gener
 
 ### Deixa que eu pago
 
-##### → _Comentário sobre o vídeo_
+##### _Comentário sobre o vídeo_
 
 O CEO da Deixa que eu pago começa expondo seus serviços, que dão suporte a pessoas em momentos financeiros difíceis, que apenas conseguiriam pagar seus boletos de cobrança (Água, luz, telefone...) parcelando com cartão de crédito. Esse serviço nunca havia sido oferecido antes no Brasil e requer um Funding muito grande, por isso o projeto é levado aos Sharks.
 
