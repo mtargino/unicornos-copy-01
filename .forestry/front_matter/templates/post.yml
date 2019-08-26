@@ -37,4 +37,5 @@ fields:
   config:
     required: true
 pages:
+- "src/pages/posts/00-\U0001F4D1\U0001F988-resenha-do-artigo-shark-tank.md"
 - src/pages/posts/00-resenha-do-artigo-shark-tank.md
