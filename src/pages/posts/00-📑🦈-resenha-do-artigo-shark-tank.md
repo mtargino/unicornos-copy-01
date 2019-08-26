@@ -1,9 +1,9 @@
 ---
 template: post
-title: "#00 \U0001F4D1\U0001F988 Resenha do Artigo + Shark Tank"
-subtitle: Confira as tarefas solicitadas na primeira aula da disciplina de Projeto
+title: "#01 \U0001F914 Briefing 5W1H"
+subtitle: Confira a apresentação solicitada na segunda aula da disciplina de Projeto
   Integrado 2(2019.2).
-date: 2019-08-16T03:00:00Z
+date: 2019-08-26T03:00:00Z
 thumb_img_path: ''
 content_img_path: ''
 excerpt: ''
