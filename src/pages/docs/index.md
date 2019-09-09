@@ -19,3 +19,9 @@ Confira abaixo o sumário da entrega de documentação do projeto
 * [Cronograma ↪](https://unimani.netlify.com/docs/Cronograma/ "Cronograma")
 * [Expectativa ↪](https://unimani.netlify.com/docs/Expectativa/ "Expectativa")
 * [Protótipos ↪](https://unimani.netlify.com/docs/Prot%C3%B3tipos/ "Protótipos")
+
+***
+
+Para acessar o documento em pdf, clique no link abaixo:
+
+* [Arquivo final ↪](https:// "Introdução")

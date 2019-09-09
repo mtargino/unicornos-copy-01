@@ -27,4 +27,9 @@ produto para que clientes compradores desses produtos consigam visualizar o valo
 da história e da produção com objetivo de melhorar a qualidade de vida e desenvolver
 socialmente os produtores.
 
+Confira abaixo as imagens do Diagrama de Uso e Fluxograma:
+
+* [Diagrama de Uso ↪](https://drive.google.com/file/d/1VHC3ViY_QCMk66821E0Nzydhll74RPUb/view?usp=sharing "Protótipos")
+* [Fluxograma ↪](https://drive.google.com/file/d/1D0C6FvyWSDyJDLnrFpAmdiyp6Bh55uqm/view?usp=sharing "Protótipos")
+
 
