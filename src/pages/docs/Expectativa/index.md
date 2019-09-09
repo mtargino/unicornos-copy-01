@@ -3,12 +3,28 @@ title: Expectativa
 excerpt: >-
 template: docs
 ---
+Precisamos apresentar para a disciplina uma o produto final esperado, então separamos os detalhes que compõem nossa ideia final.
 
-Desde o início da disciplina a necessidade para produzirmos um produto social foi colocada em pauta pelos membros da equipe, com essa demanda, chegamos até o laboratório de design social, Varal, localizado no Departamento de Arquitetura e Urbanismo e Design que conta com participação de inúmeros alunos e professores e possui extrema relevância no meio social cearense.
+O Benefício Central do projeto é agregar valor ao meio de produção e ao valor final do
+produto.
 
-Com o Varal, encontramos um projeto em andamento extremamente especial e relevante para todo o Ceará; A produção artesanal local histórica em processo de desaparecimento.
-Iniciamos o processo de estudo das pesquisas desenvolvidas pelo Varal e encontramos uma tradição local que remete ao século passado com técnicas de produção extremamente únicas.
-Analisando a documentação descobrimos que a comunidade vive uma situação extremamente precária e que pelas próprias palavras dos artesãos remete a falta de visibilidade, valorização do produto e vendas da comunidade que vem caindo cada vez mais com o avanço tecnológico que não chega até eles.
+O Produto Básico é uma ferramenta de fomentação e divulgação do meio de produção
+e produto de uma comunidade ou empresa.
 
-Com todo esse estudo visualizamos dentro e fora da comunidade de Moita Redonda a importância da valorização dos métodos de produção e da visibilidade da história que um produto possui no desenvolvimento social e mercadológico de qualquer comunidade produtora ou empresa nascente que precisa disseminar o valor agregado de seus produtos.
+O Produto Esperado é uma plataforma inovadora que por meios de infografia, interface
+clara e amigável que crie o desenvolvimento social dentro de uma comunidade ou
+empresa.
+
+O Produto Ampliado é a reutilização da plataforma por outros desenvolvedores por
+meio de open source com o intuito do desenvolvimento social fora da comunidade
+Moita Redonda.
+
+O Produto Potencial é a venda de manutenção e serviços agregados a plataforma
+como design de identidade, branding, estudo de produto.
+
+O serviço esperado é uma plataforma que fomente a história da produção e de um
+produto para que clientes compradores desses produtos consigam visualizar o valor
+da história e da produção com objetivo de melhorar a qualidade de vida e desenvolver
+socialmente os produtores.
+
 
