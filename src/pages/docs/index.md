@@ -18,4 +18,4 @@ Confira abaixo o sumário da entrega de documentação do projeto
 * [Justificativa ↪](https://unimani.netlify.com/docs/Justificativa/ "Justificativa")
 * [Cronograma ↪](https://unimani.netlify.com/docs/Cronograma/ "Cronograma")
 * [Expectativa ↪](https://unimani.netlify.com/docs/Expectativa/ "Expectativa")
-* [Protótipos ↪](https://youtu.be/l9EfHSSs2DA "Protótipos")
+* [Protótipos ↪](https://unimani.netlify.com/docs/Prot%C3%B3tipos/ "Protótipos")
