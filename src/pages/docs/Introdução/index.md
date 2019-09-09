@@ -12,3 +12,4 @@ Analisando a documentação descobrimos que a comunidade vive uma situação ext
 
 Com todo esse estudo visualizamos dentro e fora da comunidade de Moita Redonda a importância da valorização dos métodos de produção e da visibilidade da história que um produto possui no desenvolvimento social e mercadológico de qualquer comunidade produtora ou empresa nascente que precisa disseminar o valor agregado de seus produtos.
 
+
