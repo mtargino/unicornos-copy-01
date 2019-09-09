@@ -27,6 +27,7 @@ fields:
   config:
     required: true
 pages:
+- src/pages/docs/manage-content/manage-content.md
 - src/pages/docs/index.md
 - src/pages/docs/ui-components/typography.md
 - src/pages/docs/ui-components/index.md
