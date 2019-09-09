@@ -2,7 +2,7 @@
 template: post
 title: "#03 \U0001F6E0️ Projeto"
 subtitle: ''
-date: 2019-09-02T03:00:00Z
+date: 2019-09-08T03:00:00Z
 thumb_img_path: ''
 content_img_path: ''
 excerpt: ''
