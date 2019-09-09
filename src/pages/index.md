@@ -3,7 +3,7 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Equipe Unicode Manicule
+  title: Equipe Unicode ☞
   section_id: hero
   component: HeroBlock
   content: Portal Oficial da Equipe para a disciplina de Projeto  em 2019.2
