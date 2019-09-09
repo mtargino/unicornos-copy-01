@@ -24,4 +24,4 @@ Confira abaixo o sumário da entrega de documentação do projeto
 
 Para acessar o documento em pdf, clique no link abaixo:
 
-* [Arquivo final ↪](https:// "Introdução")
+* [Arquivo final ↪](https://drive.google.com/file/d/1HtH5EY3_DI3W-V2QsIQAOfyD9Cf0U-56/view?usp=sharing "Introdução")
