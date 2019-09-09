@@ -14,6 +14,11 @@ sections:
   section_id: features
   component: FeaturesBlock
   featureslist:
+  - title: Documentação do Projeto
+    content: Confira aqui a documentação do Projeto a íntegra
+    actions:
+    - label: Ver Documentação
+      url: https://unimani.netlify.com/docs/
   - title: Blog
     content: Acesse o Blog para acompanhar as atualizações de tarefas da equipe.
     actions:
