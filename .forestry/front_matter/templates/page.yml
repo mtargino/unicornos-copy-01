@@ -24,4 +24,5 @@ fields:
   config:
     required: true
 pages:
+- src/pages/doc_content/sumário.md
 - src/pages/style-guide.md
