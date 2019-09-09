@@ -13,15 +13,21 @@ exemplos estão muito desatualizados, possuem uma interface não muito amigável
 simplesmente não funcionam corretamente, como os exemplos abaixo:
 * http://www.ileaxe.com.br/
 * https://asteca.loja2.com.br/
+
+
 Outros possuem uma interface razoavelmente boa, porém por tem uma loja física
 distante e um valor muito caro no frete, assim como o exemplo da Loja do Sítio
 abaixo:
 * https://lojadositio.com.br/
+
+
 Também existem lojas de produtos artesanais ou de produção não industrial com uma
 missão clara e transparente de não explorar os produtores originais, bons exemplos
 são a Catarina Mina e o Moyee Coffee:
 * https://www.catarinamina.com/
 * https://www.moyeecoffee.com/
+
+
 Em nossas pesquisas, também identificamos bons exemplos de interfaces
 extremamente contemporâneas, com boas práticas de design, foco no produto ou
 história, forte apelo cultural e estético e uso de infografia para mostrar o conteúdo, veja
