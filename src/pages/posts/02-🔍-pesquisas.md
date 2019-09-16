@@ -14,4 +14,4 @@ excerpt: ''
 
 [Link para a página de documentação responsiva](https://unimani.netlify.com/docs/)
 
-[Arquivo em PDF](https://drive.google.com/file/d/1HtH5EY3_DI3W-V2QsIQAOfyD9Cf0U-56/view?usp=sharing)
+[Arquivo em PDF](https://drive.google.com/file/d/194kXcdw2x5ENeIl16eBHOMZEtVNdcqvv/view?usp=sharing)
