@@ -10,14 +10,12 @@ excerpt: ''
 ---
 **Protótipo de Login - Firebase**
 
-[https://www.youtube.com/watch?v=VPksuVcFlec](https://www.youtube.com/watch?v=VPksuVcFlec "https://www.youtube.com/watch?v=VPksuVcFlec")
-
-<iframe width="560" height="315" src="[https://www.youtube.com/watch?v=VPksuVcFlec](https://www.youtube.com/watch?v=VPksuVcFlec "https://www.youtube.com/watch?v=VPksuVcFlec")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[https://www.youtube.com/watch?v=VPksuVcFlec](https://www.youtube.com/watch?v=VPksuVcFlec "Acesso ao vídeo")
 
 **Protótipo de Product Management - Firebase**
 
-<iframe width="560" height="315" src="[https://www.youtube.com/watch?v=7DtgGPLwK04](https://www.youtube.com/watch?v=7DtgGPLwK04 "https://www.youtube.com/watch?v=7DtgGPLwK04")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[https://www.youtube.com/watch?v=7DtgGPLwK04](https://www.youtube.com/watch?v=7DtgGPLwK04 "Acesso ao vídeo")
 
 **Protótipo de Login e Product Management - Java Web com SQL**
 
-<iframe width="560" height="315" src="[https://www.youtube.com/watch?v=s0_40fRYWVI](https://www.youtube.com/watch?v=s0_40fRYWVI "https://www.youtube.com/watch?v=s0_40fRYWVI")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[https://www.youtube.com/watch?v=s0_40fRYWVI](https://www.youtube.com/watch?v=s0_40fRYWVI "Acesso ao vídeo")"
