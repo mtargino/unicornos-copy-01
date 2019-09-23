@@ -10,7 +10,7 @@ excerpt: ''
 ---
 **Protótipo de Login - Firebase**
 
-[Acessar Vídeo]()[↪](https://youtu.be/l9EfHSSs2DA "Acessar vídeo")
+[Acessar Vídeo](https://www.youtube.com/watch?v=VPksuVcFlec)[↪](https://youtu.be/l9EfHSSs2DA "Acessar vídeo")
 
 **Protótipo de Product Management - Firebase**
 
