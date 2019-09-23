@@ -37,7 +37,6 @@ fields:
   config:
     required: true
 pages:
-- src/pages/posts/05-protótipos-de-backend.md
 - "src/pages/posts/02-\U0001F50D-pesquisas.md"
 - "src/pages/posts/01-\U0001F914-briefing-5w1h.md"
 - "src/pages/posts/00-\U0001F4D1\U0001F988-resenha-do-artigo-shark-tank.md"
