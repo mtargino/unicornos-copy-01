@@ -10,12 +10,12 @@ excerpt: ''
 ---
 **Protótipo de Login - Firebase**
 
-[https://www.youtube.com/watch?v=VPksuVcFlec](https://www.youtube.com/watch?v=VPksuVcFlec "Acesso ao vídeo")
+[Acesso ao Vídeo]()[↪](https://youtu.be/l9EfHSSs2DA "Acessar vídeo")
 
 **Protótipo de Product Management - Firebase**
 
-[https://www.youtube.com/watch?v=7DtgGPLwK04](https://www.youtube.com/watch?v=7DtgGPLwK04 "Acesso ao vídeo")
+[Acesso ao Vídeo](https://www.youtube.com/watch?v=7DtgGPLwK04)[↪](https://youtu.be/l9EfHSSs2DA "Acessar vídeo")
 
 **Protótipo de Login e Product Management - Java Web com SQL**
 
-[https://www.youtube.com/watch?v=s0_40fRYWVI](https://www.youtube.com/watch?v=s0_40fRYWVI "Acesso ao vídeo")"
+[Acesso ao Vídeo](https://www.youtube.com/watch?v=s0_40fRYWVI)[↪](https://youtu.be/l9EfHSSs2DA "Acessar vídeo")
