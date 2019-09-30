@@ -65,7 +65,7 @@ Esta tela representa a página com o carrinho aberto, nela você pode consultar 
 Para finalizar, aqui está prototipada a tela para um produto, mostrando valor, ficha técnica, história, cadeia produtiva em relação ao produto etc, o foco é mostrar ao usuário o valor real deste produto e quanto o produtor lucra e trabalha para chegar naquele resultado, sem "dark patterns", tornando o sistema confiável e transparente.
 
 
-##### Protótipos de Baixa Fidelidade
+##### Captura de imagens
 
 Na última quarta-feira(25/09) o Matheus Brandão e o Bruno Cidade foram visitar a comunidade de Moita Redonda e captaram algumas imagens para que possamos analisar como podemos utilizar isto no contéudo que estamos criando ou como deixar isto interativo. Foram captadas imagens de drone e câmera 360, que ainda estão sendo curadas pela equipe, por isso não iremos disponibilizar no momento, mas temos este vídeo para mostrar algo:
 
