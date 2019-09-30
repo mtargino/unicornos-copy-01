@@ -74,3 +74,5 @@ Para finalizar, aqui está prototipada a tela para um produto, mostrando valor, 
 
 Na última quarta-feira(25/09) o Matheus Brandão e o Bruno Cidade foram visitar a comunidade de Moita Redonda e captaram algumas imagens para que possamos analisar como podemos utilizar isto no contéudo que estamos criando ou como deixar isto interativo. Foram captadas imagens de drone e câmera 360, que ainda estão sendo curadas pela equipe, por isso não iremos disponibilizar no momento, mas temos este vídeo para mostrar algo:
 
+[Acessar Vídeo](https://drive.google.com/file/d/1odeNwyJrQBwxG9_WmahkkXZ-zgGyCWVl/view?usp=sharing)[↪](https://drive.google.com/file/d/1odeNwyJrQBwxG9_WmahkkXZ-zgGyCWVl/view?usp=sharing "Acessar vídeo")
+
