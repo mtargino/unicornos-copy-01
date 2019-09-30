@@ -23,7 +23,7 @@ No controle de contas e login, a interface em questão é a de User, que possui 
 
 **Protótipo de Product Management - Firebase**
 
-[![Protótipo de Login](https://i.ibb.co/T110jwm/https-i-ytimg-com-vi-7-Dtg-GPLw-K04-hqdefault.jpg)](https://www.youtube.com/watch?v=7DtgGPLwK04 "Protótipo de Product Management")
+[![Protótipo de Product Management](https://i.ibb.co/T110jwm/https-i-ytimg-com-vi-7-Dtg-GPLw-K04-hqdefault.jpg)](https://www.youtube.com/watch?v=7DtgGPLwK04 "Protótipo de Product Management")
 [Acessar Vídeo](https://www.youtube.com/watch?v=7DtgGPLwK04)[↪](https://youtu.be/l9EfHSSs2DA "Acessar vídeo")
 
 No product maanagement foi criado um CRUD que interage com a Interface de produtos, que possui informações como nome, criador e preço. O firebase armazena e passa as informações para que as funções do ionic populem a interface da aplicação. 
