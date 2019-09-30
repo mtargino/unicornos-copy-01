@@ -76,3 +76,11 @@ Na última quarta-feira(25/09) o Matheus Brandão e o Bruno Cidade foram visitar
 
 [Acessar Vídeo](https://drive.google.com/file/d/1odeNwyJrQBwxG9_WmahkkXZ-zgGyCWVl/view?usp=sharing)[↪](https://drive.google.com/file/d/1odeNwyJrQBwxG9_WmahkkXZ-zgGyCWVl/view?usp=sharing "Acessar vídeo")
 
+
+##### Reunião com especialistas
+
+**Maria Fernandes**
+
+O Mateus Targino faz parte da comunidade de Design de Interação IxDA Fortaleza e foi para o evento do Dia Mundial do Design de Interação(24/09), o tema deste ano era "Trust and Responsability", coincidentemente foi abordado o tema de consumo consciente e Design Social, maior coincidência ainda foi o fato de que havia uma das líderes da comunidade local que desenvolve trabalhos com este teor, participando como voluntária em projetos da Ceart relacionados a artesanato e outros projetos pessoais pelos quais já passou. Na última sexta-feira(27/09), o integrante da equipe fez contato com Maria Fernandes para marcar uma reunião online e preparar algumas perguntas para adquirirmos conhecimento e termos alguma orientação mais pragmática de alguém que trabalha em uma área mais próxima da nossa, não sabemos ainda o dia mas idealmente será esta semana ainda e de preferência juntamente com os integrantes do Varal(Laboratório de Design Social).
+
+
