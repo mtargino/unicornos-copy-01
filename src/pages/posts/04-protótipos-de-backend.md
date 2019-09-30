@@ -33,9 +33,10 @@ No product maanagement foi criado um CRUD que interage com a Interface de produt
 [![Protótipo de Login e Product Management - Java Web com SQL](https://i.ibb.co/th4bghF/https-i-ytimg-com-vi-s0-40f-RYWVI-maxresdefault.jpg)](https://www.youtube.com/watch?v=s0_40fRYWVI "Protótipo de Login e Product Management - Java Web com SQL")
 [Acessar Vídeo](https://www.youtube.com/watch?v=s0_40fRYWVI)[↪](https://youtu.be/l9EfHSSs2DA "Acessar vídeo")
 
-No protótipo construído utilizando Java e SQL, criamos duas classes modelo: produtos, que recebem descrição preço e nome; e usuários, que recebem username, e-mail e senha. Foram criadas tabelas que recebem as mesmas variáveis das classes, como colunas. 
+No protótipo construído utilizando Java e SQL, obedecendo ao padrão da arquitetura MVC, criamos duas classes modelo: produtos, que recebem descrição preço e nome; e usuários, que recebem username, e-mail e senha, suas respectivas regras de negócio (data access object) com suas conexões ao banco de dados. Foram criadas tabelas que recebem as mesmas variáveis das classes, como colunas.
+
 Para realizar o login, utilizamos um select para comparar o que foi passado nos campos do formulário de login com o que está no banco de dados. Para inscrever um novo usuário, o formulário preenchido passa as informações para um insert que realiza a operação na nossa base em SQL. 
-Na parte da exposição de produtos, é realizado um select que passa para a camada de controle as informações a serem populadas na interface web do sistema
+Já na parte da exposição de produtos, a camada view foi feita por JSPs (Java server page), onde é realizado um select que passa para a camada de controle, as servlets com suas regras de interação, as informações a serem populadas na interface web do sistema. Utilizamos Session para manter as informações do usuário enquanto navegamos por diferentes htmls e para futuramente alimentar o cookie.
 
 ### Protótipos de Design
 
