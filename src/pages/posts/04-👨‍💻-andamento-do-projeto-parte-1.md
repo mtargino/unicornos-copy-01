@@ -1,6 +1,6 @@
 ---
 template: post
-title: "#04  \U0001F468‍\U0001F4BB Andamento do Projeto - Parte 1"
+title: "#05  \U0001F468‍\U0001F4BB Andamento do Projeto - Parte 2"
 subtitle: ''
 date: 2019-09-23T03:00:00Z
 thumb_img_path: ''
