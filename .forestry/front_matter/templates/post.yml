@@ -37,6 +37,7 @@ fields:
   config:
     required: true
 pages:
+- "src/pages/posts/04-\U0001F468‍\U0001F4BB-andamento-do-projeto-parte-1.md"
 - src/pages/posts/04-protótipos-de-backend.md
 - "src/pages/posts/02-\U0001F50D-pesquisas.md"
 - "src/pages/posts/01-\U0001F914-briefing-5w1h.md"
