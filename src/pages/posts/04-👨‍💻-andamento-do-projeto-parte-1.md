@@ -12,34 +12,20 @@ excerpt: ''
 
 ### Protótipos de backend
 
-Nos prototipos de backend que utilizam o firebase e ionic, foram criadas "Interfaces", algo mais similar às classes, entre os conceitos de POO tradicional.
-
-**Protótipo de Login - Firebase**
+**Pedido e carrinnho**
 
 [Acessar Vídeo](https://www.youtube.com/watch?v=VPksuVcFlec)[↪](https://youtu.be/l9EfHSSs2DA "Acessar vídeo")
 
-No controle de contas e login, a interface em questão é a de User, que possui informações como nome, senha e e-mail. O próprio firebase oferece funções para login e signup, que facilitam o processo, testando apenas criar os formulários para passar essas informações e realizar a ação. Além disso o firebase oferece segurança e mensagens de erro que podem vir a ocorrer, na inserção de informações erradas pelo usuário.
-
-**Protótipo de Product Management - Firebase**
-
-[Acessar Vídeo](https://www.youtube.com/watch?v=7DtgGPLwK04)[↪](https://youtu.be/l9EfHSSs2DA "Acessar vídeo")
-
-No product maanagement foi criado um CRUD que interage com a Interface de produtos, que possui informações como nome, criador e preço. O firebase armazena e passa as informações para que as funções do ionic populem a interface da aplicação.
-
-**Protótipo de Login e Product Management - Java Web com SQL**
-
-[Acessar Vídeo](https://www.youtube.com/watch?v=s0_40fRYWVI)[↪](https://youtu.be/l9EfHSSs2DA "Acessar vídeo")
-
 ### Protótipos de Design
 
-**Protótipos de Baixa Fidelidade - Lápis e papel**
+Identidade Visual
 
-Os protótipos abaixo foram feitos com abordagem "mobile-first", levando em consideração que estatisticamente o acesso a websites se dá através de aparelhos móveis. Na nossa ideia a plataforma final será responsiva e terá versões adaptadas ideais para cada tipo dos aparelhos mais comuns.
+A identidade visual foi discutida com um dos integrantes do Varal e dois integrantes a equipe, decidimos juntamente as fontes tipográficas e cores que serão utilizadas, nos preocupando com a variedade de aplicações possíveis, desde sinalização física até contexto de uso digital. O logotipo não está definido ainda mas houve andamento no projeto por parte deles.
 
-![](/images/00.png)
+![](/images/Id Visual.png)
 
-Página Inicial, com imagens, título, botão "Call to Action", Botões de menu, carrinho e um que leva diretamente para a listagem de produtos. Abaixo da tela há uma ideia de tela de carregamento, se trata da ilustração e animação vetorial(em svg, isto é, compatível com a web) de um de um mascote, apelidado de "Poxa" criado por um dos artesãos.
+**Protótipos de Alta Fidelidade**
 
-**Filmagens**
+O protótipo de alta fidelidade está em andamento já que recebemos um primeiro ensaio da identidade visual final.
 
-![](/images/IMG-20191007-WA0003.jpg)
+[Acessar Protótipo↪](https://xd.adobe.com/view/649832bf-5224-4566-4a67-d6407ea480ea-12a9/)
